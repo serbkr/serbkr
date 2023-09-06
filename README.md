@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming & coding.
 - 🌱 I’m currently learning how to code,actually i've just started with python so..
 - 💞️ I’m looking to collaborate on : let's not go this far because it's my first time here hehe.
-- 📫 How to reach me on my email: serineboukerroucha@gmail.com
+- 📫 You can reach me on my email: serineboukerroucha@gmail.com
 Hehe that's it! 
 
 <!---
