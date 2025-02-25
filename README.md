@@ -1,7 +1,10 @@
-- 👋 Hi, I’m serine!
-- 👀 I’m interested in programming & coding and everything that is related to tech.
-- 📫 You can reach me on my email: serineboukerroucha@gmail.com
-Let's connect!
+Hello there !! 
+I made a simple to do list app using html css and JavaScript, it's not something wow or fency.
+
+Features of this app: 
+add tasks.
+delete tasks.
+mark as done tasks.
 
 <!---
 serbkr/serbkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
