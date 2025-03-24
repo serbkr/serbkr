@@ -1,6 +1,6 @@
 Hello there !! 
 My name is Serine.
-I'm interested in programming.
+I try to code and create stuff sometimes.
 
 
 <!---
